@@ -3,7 +3,7 @@
 
 Unity, Unity Plastic Scm, Notion 활용
 
-</br>
+<br></br>
 ### <프로젝트 소개 링크>
 기획, 맵디자인, UI 파트 담당
 
