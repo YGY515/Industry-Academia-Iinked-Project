@@ -1,9 +1,11 @@
 # Industry-Academia-Iinked-Project
-## 산학연계 프로젝트 2022. 05 ~ 2023. 02 / Unity, Google Cardboard VR으로 청소년 교육 체험 컨텐츠 제작
+산학연계 프로젝트 2022. 05 ~ 2023. 02 / Unity, Google cardboard VR으로 청소년 교육 체험 컨텐츠 제작
+
 ---
 
 ### <프로젝트 소개 링크>
 기획, 맵디자인, UI 파트 담당
+
 https://youtu.be/8B2WNnhwOEA
 
 </br>
